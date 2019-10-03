@@ -4,7 +4,6 @@ document.getElementById("table").innerHTML = `
 <div class="row">
 <div class="col s8 offset-s2"><h1>Tic Tac Toe</h1></div>
 </div>
-<table>
 
   <div class="row">
   <div class="col s1 grey offset-s2">
@@ -199,5 +198,4 @@ document.getElementById("table").innerHTML = `
   </div>
   
 
-</table>
 `;
