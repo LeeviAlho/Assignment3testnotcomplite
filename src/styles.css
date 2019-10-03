@@ -16,18 +16,6 @@ button {
   background: transparent;
   border: none;
 }
-
-table,
-th,
-td {
-  border-collapse: collapse;
-  border: 1px solid black;
-}
-td {
-  font-size: 30px;
-  width: 60px;
-  height: 60px;
-}
 .x {
   background-color: rgb(124, 252, 0);
 }
